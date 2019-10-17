@@ -1,0 +1,118 @@
+---
+title: "NEON Science Summit"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### All the useful information located at the Earth Lab GitHub
+https://github.com/earthlab/neon-science-summit
+
+### Big Lunch Questions 
+What are the grad challenges NEON data can tackle in the next 10 years? 
+How can we connect NEON data to other data?
+What does our community need to be to be successful?
+
+
+## Day 1
+
+Sergio Marconi 
+- IDTreeS: a transdiscplinary teeam of NEON users
+- Reproducible frameworks and scaling products 
+  - https://github.com/MarconiS
+  - https://github.com/weecology
+  - https://github.com/NIST-NEON-DSE
+
+### Group Pitches
+- Combine incase plants, ecosystem process, and fire dynamics --> impact change and vulnerability to the system. Are sites prone to invasion because of variations in N cycle/availability, fire regime and/or flambility
+
+- Kate Hayes
+  - How can NEON data be used to eitehr identify or predict system thresholds
+    - Existing work
+    - Spatial/temporal scales available
+    - Assumptions
+    - Limitations
+    
+- Alison Donnelly
+  - Phenology: more accurate carbon budgets, different life forms, new remote sensing metrics; phenocam links to RS, native vs. non-native  
+    - Extracting knowledge from pheno cams for carbon budget estimates, native vs nonnative, different life forms and phenological (s)synchrony, pheno-forecasting
+
+
+#### Tipping points working group
+
+- Does NEON data have the data to answer questions about tupping points?
+- Spatial analouges, space for time substitution
+- What is a tipping point?
+  - Threshold response or a tracking of the driver response to the perturbation
+  
+  
+#### Human Health and NEON 
+  - How to link ground truth data to multiple forms of remote sensing data? 
+    - Linking people to pixels
+  - How to ensure decision maker adoption 
+    - Citizen science
+    - Repition
+    - Building social capital
+  - NEON collects vector data, connection to CDC data, climate data. For instance, ticks/mosquitoes
+  - Resource to communicate 
+    - Plant based narratives and case studies
+  - Ecological forecasting by intigrating social utilization data and behaviors
+    - How to embed socio-economic systems in the predicitions
+  - Resource to communicate place+based narratives, case studies
+  - What info is valuable to decision-maker
+    - If decisions included NEON, would they be improved
+    - Linking to some of Bill's online survey work
+    
+- 
+    
+#### Show where population densities are in relation to NEON sites
+#### Detect data spikes and report to the community
+#### A fire went through a site in the Great Smokies --> look into
+#### Before and after hurricane disturbances
+
+
+### Day 2
+
+#### Planary Talks
+Dana Chadwick, NSF EAR Postdoc, Stanford University and Lawrence Berkeley National Lab: “Landscape-Scale Biogeochemistry with the NEON AOP: Ground Truthing, Collaboration, and Accessibility”
+
+NEON Challenges 
+
+  - Spatial distribution of above-below ground biogeochemical properties
+  - Carbon stocks
+  - Microbial function
+  - Nutrient Cycling
+  - Soil Chars
+
+Phoebe Zarnetske, Assistant Professor, Michigan State University: “Advancing 
+biodiversity science and education with NEON’s organismal data”
+
+- Biodiversity
+  - Increase fundemental and applied knowledge between biodiv systems and functions
+  - Rel-time forecasting biodiversity change
+  - Global standards for measuring and monitoring essential biodiversity variables
+- NEON plays an critical role in all of these regional to global scale framings in the next 10+ years
+  - Leveraging LTER, GBIF, MOL (map of life), FIA, eBIRD, to connect with longer term records
+- Critical realms for forecasting that are missing in NEON data - 1) past landuse 2) diturbance regime
+
+- Ordway-Swisher --> lots of prescribed burns that define past landuse.  Look at this site!
+https://github.com/NEON-biodiversity
+
+
+### Quotes
+Sergio Marconi "Open code and data will take us to infinity and beyond"
+Leah Wasser - Building an Army of Superheros : open + reproducible = accelerated science
+Democratzation of science; Science culture revolution
+
+### Questions
+- Gap between federal scientists and NEON data
+
+### Large Themes
+A key theme is developing a large community, but a lack of outlet (do we have a forum?)
+Regular interactions and collaboration are essential
+
+
+### Thoughts
+Should the NEON website promote the trainings on Earth Lab website in addition to the materials on our site?
